@@ -3,7 +3,7 @@
 A CLI tool that fetches Pokémon data from [PokeAPI](https://pokeapi.co/), converts their official artwork into Braille-based ASCII art, and displays it in your terminal.
 
 ## Features
-- **Bilingual Display**: Shows English and Japanese names.
+- **Multi-lang Display**: Shows English and Japanese names.
 - **Region Filtering**: Select random Pokémon from specific regions (Kanto, Johto, etc.).
 
 ## Prerequisites
