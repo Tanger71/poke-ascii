@@ -9,6 +9,8 @@ A CLI tool that fetches Pokémon data from [PokeAPI](https://pokeapi.co/), conve
 ## Prerequisites
 - **Python 3.x**
 - **pip** (Python package manager)
+- **Font** that will display empty braille dots as nothing
+  - ie. `JetBrains Mono`
 
 ## Setup
 
